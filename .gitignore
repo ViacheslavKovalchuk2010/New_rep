@@ -1,0 +1,11 @@
+# ignore log
+*.log
+
+# ignore db
+*.db
+
+# ignore target
+target/
+
+# ignore bin
+bin/
